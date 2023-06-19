@@ -1,4 +1,3 @@
 ---
-title: nuxtjs
-
+title: nuxt
 ---
